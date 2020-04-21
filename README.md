@@ -2,6 +2,9 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![License: GPL v3](https://img.shields.io/badge/Version-1.0-blue)](https://www.gnu.org/licenses/gpl-3.0)
+
+
 CLI Tool for downloading customized URLHAUS databases/lists
 
 Fetches an entire database and customizes it according to your wishes. Please note that if you need less than 1000 entries abuse.ch already offers an API (https://urlhaus-api.abuse.ch/) but reduced to the newest.
@@ -22,3 +25,5 @@ Current bugs:
 Upcoming:
 - Fixes & Improvments
 - Integrating parts of the API into the functionality to look up certain urls or threats
+
+# Feel free to request features or report bugs
