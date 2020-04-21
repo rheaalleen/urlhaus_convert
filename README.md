@@ -6,7 +6,7 @@ Fetches an entire database and customizes it according to your wishes. Please no
 
 
 Allows for following:
-- Checking availability of every database (All, <30 days, Online)
+- Checking availability of every database (All, <30 days, URLs Online)
 - Downloading a specific database
 - Selecting columns you need (id,dateadded,url,url_status,threat,tags,urlhaus_link,reporter)
 - Removing protocols from URL (http:// | https://)
