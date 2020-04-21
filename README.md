@@ -1,6 +1,6 @@
 # urlhaus_convert
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)[![Version 1.0(https://img.shields.io/badge/Version-1.0-blue)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)[![Version 1.0](https://img.shields.io/badge/Version-1.0-blue)]()
 
 CLI Tool for downloading customized URLHAUS databases/lists
 
