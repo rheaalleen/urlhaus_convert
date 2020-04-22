@@ -1,6 +1,6 @@
 # urlhaus_convert
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   [![Version 1.0](https://img.shields.io/badge/Version-1.0-blue)]()
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   [![Version 1.0](https://img.shields.io/badge/Version-1.0-blue)]()      [![Pthon 3.7](https://img.shields.io/badge/Python-3.7-brightgreen)]()
 
 CLI Tool for downloading customized URLHAUS databases/lists
 
@@ -24,4 +24,4 @@ Upcoming:
 - Fixes & Improvments
 - Integrating parts of the API into the functionality to look up certain urls or threats
 
-# Feel free to request features or report bugs
+## Feel free to request features or report bugs
