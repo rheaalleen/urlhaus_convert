@@ -6,6 +6,9 @@ CLI Tool for downloading customized URLHAUS databases/lists
 
 Fetches an entire database and customizes it according to your wishes. Please note that if you need less than 1000 entries abuse.ch already offers an API (https://urlhaus-api.abuse.ch/) but reduced to the newest.
 
+:exclamation: Please dont query the databases more than every 5 minutes (as per URLHAUS request), if you are unsure about functionality you can try the tool with a local files after you downloaded the databases.
+
+Feel free to use the tool where you want, if so please tell me where. I would love to hear about the usages.
 
 Allows for following:
 - :star: Checking availability of every database (All, <30 days, URLs Online)
