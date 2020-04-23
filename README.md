@@ -8,20 +8,20 @@ Fetches an entire database and customizes it according to your wishes. Please no
 
 
 Allows for following:
-- Checking availability of every database (All, <30 days, URLs Online)
-- Downloading a specific database
-- Selecting columns you need (id,dateadded,url,url_status,threat,tags,urlhaus_link,reporter)
-- Removing protocols from URL (http:// | https://)
-- Editing local databases you downloaded in case you need to work offline
+- :star: Checking availability of every database (All, <30 days, URLs Online)
+- :star: Downloading a specific database
+- :star: Selecting columns you need (id,dateadded,url,url_status,threat,tags,urlhaus_link,reporter)
+- :star: Removing protocols from URL (http:// | https://)
+- :star: Editing local databases you downloaded in case you need to work offline
 
 ![CLI](https://i.imgur.com/otQM8xO.png "CLI")
 
 Current bugs:
-- Last line of file is deleted because CRLF gets lost during editing
-- When selecting tags as column the tags get split over multiple columns instead of staying in their original column
+- :hammer_and_wrench: Last line of file is deleted because CRLF gets lost during editing
+- :hammer_and_wrench: When selecting tags as column the tags get split over multiple columns instead of staying in their original column
 
 Upcoming:
-- Fixes & Improvments
-- Integrating parts of the API into the functionality to look up certain urls or threats
+- :checkered_flag: Fixes & Improvments
+- :checkered_flag: Integrating parts of the API into the functionality to look up certain urls or threats
 
 ## Feel free to request features or report bugs
